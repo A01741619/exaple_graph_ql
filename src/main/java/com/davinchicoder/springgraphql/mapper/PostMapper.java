@@ -14,6 +14,7 @@ public class PostMapper implements Function<PostDto, Post> {
     public Post apply(PostDto postDto) {
         return Post.builder()
                 .title(postDto.getTitle())
+                .nombre(postDto.getNombre())
                 .author(postDto.getAuthor())
                 .content(postDto.getContent())
                 .imageUrl(postDto.getImageUrl())

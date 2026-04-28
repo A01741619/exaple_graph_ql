@@ -10,6 +10,7 @@ import lombok.Data;
 public class PostDto {
 
     private String title;
+    private String nombre;
     private String content;
     private String author;
     private String imageUrl;

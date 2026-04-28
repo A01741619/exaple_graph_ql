@@ -16,6 +16,7 @@ public class PostRepository {
             List.of(
                     Post.builder().id(1L)
                             .title("First Post")
+                            .nombre("Juan Pablo Gil")
                             .content("This is the content of the first post")
                             .author("John Doe")
                             .imageUrl("https://example.com/image1.jpg")
@@ -25,6 +26,7 @@ public class PostRepository {
                     Post.builder()
                             .id(2L)
                             .title("Second Post")
+                            .nombre("Juan Pablo Gil")
                             .content("Content for the second post")
                             .author("Jane Smith")
                             .imageUrl("https://example.com/image2.jpg")
@@ -34,6 +36,7 @@ public class PostRepository {
                     Post.builder()
                             .id(3L)
                             .title("Third Post")
+                            .nombre("Juan Pablo Gil")   
                             .content("Content for the third post")
                             .author("Bob Wilson")
                             .imageUrl("https://example.com/image3.jpg")
