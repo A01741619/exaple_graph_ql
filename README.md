@@ -1,3 +1,6 @@
+# EVIDENCIA
+<img width="960" height="508" alt="{688583FF-E91C-48DA-A8E9-DA6666C1E85D}" src="https://github.com/user-attachments/assets/8eb8bc53-a199-4942-a82e-40ac45da292f" />
+
 # 📚 Documentación del Proyecto Spring GraphQL
 # Creditos para: DavinchiCoder
 
